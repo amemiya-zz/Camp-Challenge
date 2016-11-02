@@ -1,0 +1,8 @@
+
+パソコンスペック
+
+Mac Book Pro（retain 13-inch Early 2015)
+OS X EI Capitan バージョン10.11.6
+プロセッサ　2.7GHz Intel Core i5
+メモリ　8GB 1867MHz DDR3
+グラフィックス　Intel Iris Graphics 6100 1536MB
